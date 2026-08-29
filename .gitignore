@@ -1,0 +1,7 @@
+# MMC / Frosty editor scratch
+Autosave/
+Caches/
+TmpProfiles/
+*.bak
+Thumbs.db
+desktop.ini
