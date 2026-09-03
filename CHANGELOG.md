@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.1 – 2026-09-03
+- Rebuilt against the **September 3, 2026 title update**. Same one-byte patch, same behaviour; the previous build was made from the pre-update `scriptpod.ast` and this one replaces it so the mod keeps working after the update.
+
 ## 1.0 – 2026-08-29
 - Initial release. Removes the **"ACCOUNT ERROR"** login-failure popup (the one MMC fills with *"Mods require being offline… -MMC/CFMC"*) that appears at boot and again whenever a mode re-runs the sign-in while signed out.
   One one-byte patch in `common/ui/node_com/scriptpod.ast` (`madden.online.module.Login._ShowLoginFailedPopup`).
