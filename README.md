@@ -59,7 +59,7 @@ The `Equals2` opcode in the `if` (`0x49`) becomes `Less2` (`0x48`), turning the 
 ## Scope / known limitations
 
 * Only the Account Error dialog is covered. Any other offline notices are separate mechanisms.
-* Title updates that change the file may require the mod to be rebuilt (v1.0.1 was rebuilt for the 2026-09-03 title update). If the popup returns after a patch, open an issue.
+* Title updates that change the file may require the mod to be rebuilt (latest: v1.0.2, rebuilt for the September 26, 2026 title update). If the popup returns after a patch, open an issue.
 
 ## Building from source
 
